@@ -1,2 +1,2 @@
 # shell-scripts
-Joey's personal shell scripts
+Joey's personal Linux shell scripts
