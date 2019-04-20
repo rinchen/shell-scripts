@@ -1,2 +1,2 @@
 #!/bin/sh
-curl -sLf https://spacevim.org/install.sh | bash
+bash <(curl -fsSL https://raw.githubusercontent.com/liuchengxu/space-vim/master/install.sh)
