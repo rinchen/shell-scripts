@@ -1,3 +1,0 @@
-export PAGER=“/usr/bin/vim -R”
-alias less=$PAGER
-alias zless=$PAGER
