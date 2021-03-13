@@ -1,3 +1,3 @@
-set -g fish_user_paths "/usr/local/sbin" $fish_user_paths
+fish_add_path /usr/local/sbin
 set EDITOR vim
 fish_vi_key_bindings 
