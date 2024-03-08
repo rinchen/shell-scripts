@@ -5,7 +5,7 @@ fish_add_path /Users/joey/go/bin
 set EDITOR nvim
 alias "vim"=nvim
 #fish_vi_key_bindings
-set -gx HOMEBREW_GITHUB_API_TOKEN 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
+set -gx HOMEBREW_GITHUB_API_TOKEN
 test -e {$HOME}/.iterm2_shell_integration.fish; and source {$HOME}/.iterm2_shell_integration.fish
 atuin init fish | source
 complete -c atuin -n __fish_use_subcommand -s h -l help -d 'Print help'
