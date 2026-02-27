@@ -4,5 +4,5 @@ sudo apt -yf dist-upgrade
 sudo apt-get -y --purge autoremove
 sudo apt-get autoclean
 npm up -g
-.space-vim/install.sh --update
+$HOME/.space-vim/install.sh --update
 omf update
